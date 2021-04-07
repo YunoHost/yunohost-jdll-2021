@@ -1,6 +1,6 @@
 Online talk in lieu of (cancelled) JDLL 2021 by tituspijean.
 
-Video available at https://cinema.yunohost.org
+Video available at https://cinema.yunohost.support
 
 ## How to edit this presentation
 
